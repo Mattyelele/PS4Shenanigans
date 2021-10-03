@@ -1,0 +1,12 @@
+D:\Projects\PS4Shenanigans\PS4Shenanigans\bin\Debug\PS4Shenanigans.exe.config
+D:\Projects\PS4Shenanigans\PS4Shenanigans\bin\Debug\PS4Shenanigans.exe
+D:\Projects\PS4Shenanigans\PS4Shenanigans\bin\Debug\PS4Shenanigans.pdb
+D:\Projects\PS4Shenanigans\PS4Shenanigans\obj\Debug\PS4Shenanigans.csproj.AssemblyReference.cache
+D:\Projects\PS4Shenanigans\PS4Shenanigans\obj\Debug\PS4Shenanigans.Form1.resources
+D:\Projects\PS4Shenanigans\PS4Shenanigans\obj\Debug\PS4Shenanigans.Properties.Resources.resources
+D:\Projects\PS4Shenanigans\PS4Shenanigans\obj\Debug\PS4Shenanigans.csproj.GenerateResource.cache
+D:\Projects\PS4Shenanigans\PS4Shenanigans\obj\Debug\PS4Shenanigans.csproj.CoreCompileInputs.cache
+D:\Projects\PS4Shenanigans\PS4Shenanigans\obj\Debug\PS4Shenanigans.csproj.CopyComplete
+D:\Projects\PS4Shenanigans\PS4Shenanigans\obj\Debug\PS4Shenanigans.exe
+D:\Projects\PS4Shenanigans\PS4Shenanigans\obj\Debug\PS4Shenanigans.pdb
+D:\Projects\PS4Shenanigans\PS4Shenanigans\bin\Debug\libdebug.dll
